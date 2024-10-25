@@ -1,6 +1,6 @@
-# PathFinder Pro: AI-Powered Career Guidance System
+# Career Advisor Pro: AI-Powered Career Guidance System
 
-PathFinder Pro is a cutting-edge AI-powered career advisory platform that transforms traditional career guidance through advanced machine learning and natural language processing. This intelligent system provides customized career recommendations, professional development strategies, and interview preparation assistance for students, professionals, and career coaches.
+Career Advisor Pro is a cutting-edge AI-powered career advisory platform that transforms traditional career guidance through advanced machine learning and natural language processing. This intelligent system provides customized career recommendations, professional development strategies, and interview preparation assistance for students, professionals, and career coaches.
 
 ## Key Features
 
@@ -69,4 +69,4 @@ This project is distributed under the MIT License - see [LICENSE](LICENSE) for c
 
 ---
 
-PathFinder Pro revolutionizes career guidance by combining artificial intelligence with comprehensive professional development resources, helping individuals make informed decisions about their career journey.
+Career Advisor Pro revolutionizes career guidance by combining artificial intelligence with comprehensive professional development resources, helping individuals make informed decisions about their career journey.
