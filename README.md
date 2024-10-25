@@ -39,7 +39,7 @@ PathFinder Pro is a cutting-edge AI-powered career advisory platform that transf
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/utkarshgupta2009/pathfinder-pro
+   git clone https://github.com/utkarshgupta2009/career_chatbot
    ```
 
 2. Install required packages:
