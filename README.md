@@ -13,6 +13,7 @@ CareerCompass is an innovative AI-powered chatbot designed to revolutionize care
 - LangChain
 - Streamlit
 - FAISS Vector Database
+- SERP API
 
 ## How It Works
 
